@@ -1,5 +1,6 @@
 # Gossip-Facebook-style
 
+Unzip
 
 bundle install
 
